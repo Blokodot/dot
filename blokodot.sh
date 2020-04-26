@@ -1,6 +1,6 @@
 #! / bin / bash
 # Penulis: ./Lolz
-# Terima kasih kepada: JavaGhost - Bashid.org
+# Terima kasih kepada: IND CyberArmy
 # Recode tinggal recode aja okeh, tapi sumber cantumin lah tolol
 # Yamaap jika scriptnya acak "an :(
 
